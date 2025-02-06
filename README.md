@@ -33,13 +33,3 @@
 ### **4️⃣ Conda 환경 저장 (`environment.yml`)**
 
 - 분석에 사용한 패키지를 관리하기 위해, **Conda 환경을 `environment.yml` 파일로 내보내기(export) 하세요.**
-
-📂 프로젝트 디렉토리 구조
-📦 wine_analysis_project
- ┣ 📜 analyze.py            # Scikit-learn 데이터 분석 Python 코드
- ┣ 📜 run_analysis.sh       # Python 코드 실행 및 로그 저장 Shell 스크립트
- ┣ 📜 upload_to_github.sh   # GitHub 자동 업로드 Shell 스크립트
- ┣ 📜 output.txt            # Python 실행 결과 저장 파일
- ┣ 📜 log.txt               # 실행 로그 저장 파일
- ┣ 📜 environment.yml       # Conda 환경 정보
- ┣ 📜 README.md             # 프로젝트 설명 파일
