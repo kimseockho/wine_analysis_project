@@ -1,0 +1,26 @@
+
+### Wine 데이터셋 분석 결과 ###
+
+1. 데이터셋 크기:
+   - 행(row) 개수: 178
+   - 열(column) 개수: 13
+
+2. 각 특성(컬럼)의 평균(mean)과 표준편차(std):
+                                    Mean         Std
+alcohol                        13.000618    0.811827
+malic_acid                      2.336348    1.117146
+ash                             2.366517    0.274344
+alcalinity_of_ash              19.494944    3.339564
+magnesium                      99.741573   14.282484
+total_phenols                   2.295112    0.625851
+flavanoids                      2.029270    0.998859
+nonflavanoid_phenols            0.361854    0.124453
+proanthocyanins                 1.590899    0.572359
+color_intensity                 5.058090    2.318286
+hue                             0.957449    0.228572
+od280/od315_of_diluted_wines    2.611685    0.709990
+proline                       746.893258  314.907474
+
+3. 특정 특성 (`alcohol`) 값 범위:
+   - 최대값: 14.83
+   - 최소값: 11.03
