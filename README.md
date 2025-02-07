@@ -1,4 +1,3 @@
-# wine_analysis_project
 # 과제- 2/6 - github
 
 ### **📌 과제: Shell Script를 활용한 Scikit-learn 데이터 분석 및 GitHub 업로드**
